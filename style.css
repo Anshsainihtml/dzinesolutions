@@ -1,0 +1,226 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#navbar{
+     height: 60px;
+     /* background-color: rgb(216, 194, 194); */
+     display: inline-block;
+     
+}
+
+img{
+    margin-left: 20px;
+    width: 100px;
+}
+div{
+    display: inline-block;
+}
+#dzine{
+
+    font-size: 19px;
+    margin-right: 410px;
+}
+a{
+    margin-left: 18px;
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+}
+#dzinesolution{
+    display: block;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+#job{
+    font-size: 17px;
+}
+
+#homeimg{
+    width: 100%;
+    height: 550px;
+    margin-top: 13px;
+   background-image: url("https://dz.dzinsolution.in/wp-content/uploads/2024/11/software-development-banner.webp");
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: #CC5800;
+    margin-top: 50px;
+    font-size: 40px;
+}
+#icon{
+    width: 50px;
+}
+
+#icondiv{
+    width: 293px;
+    display: inline-block;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 19px;
+}
+#blackPanel{
+    height: 161px;
+    width: 1200px;
+    background-color: black;
+    margin-left: 65px;
+    /* text-align: center; */
+}
+
+h3{
+    color: #CC5800;
+    font-size: 70px;
+    margin-top: 26px;
+    margin-bottom: 1px;
+}
+#blackPanelpara{
+    color: white;
+    margin-top: 6px;
+    margin-bottom: 1px;
+    font-size: 20px;
+}
+#blackPaneldiv{
+        margin-left: 100px;
+}
+#courseImg{
+    width: 260px;
+    height: 130px;
+}
+#blackCourse{
+    text-align: center;
+    color: #CC5800;
+    height: 400px;
+    width: 303px;
+    background-color: black;  
+}
+#grayCourse{
+    text-align: center;
+    color: #CC5800;
+    height: 400px;
+    width: 303px;
+    background-color: gainsboro;  
+}
+#blackCoursepara{
+    color: white;
+    margin-top: 58px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#grayCoursepara{
+    color: black ;
+    margin-top: 58px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#courseDiv{
+    margin-left: 58px;
+}
+#grayButton{
+    background-color: gray;
+    padding: 7px;
+    color: white;
+    font-size: 15px;
+}
+#orangeButton{
+    background-color: #CC5800;
+    padding: 7px;
+    color: white;
+    font-size: 15px;
+}
+
+#discover{
+    height: 790px;
+    display: block;
+    background-color: rgb(237, 237, 240);
+}
+#discoverh1{
+    padding-top: 105px;
+}
+#studentBox1{
+    height: 233px;
+    width: 574px;
+    background-color: white;
+     display: inline-block;
+     margin-left: 72px;
+     margin-top: 37px;
+}
+#studentBoxpara{
+    margin-top: 61px;
+    /* text-align: center; */
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#discoverImg{
+    width: 60px;
+    margin-right: 12px;
+    margin-left: 50px;
+}
+h4{
+    display: inline-block;
+}
+#detailPara{
+     margin-top: 0;
+    /* text-align: center; */
+    padding-left: 0;
+    padding-right: 0;
+    color: gray;
+    font-size: 12px;
+}
+#lastImg{
+    width: 517px;
+    margin-left: 144px;
+}
+#lastDiv{
+    margin-top: 30px;
+    display: inline-block;
+}
+#welcome{
+    display: inline-block;
+    width: 600px;
+}
+#welcomeh1{
+    margin-top: 0px;
+    display: inline-block;
+
+}
+#lastImgdiv{
+    display: inline-block;
+}
+
+#footer{
+    margin-top: 41px;
+    width: 1342px;
+    height: 390px;
+    background-color: rgb(24, 24, 24);
+}
+h5{
+    color: white;
+    margin-left: 29px;
+    
+}
+#footerpara{
+    display: inline-block;
+    color: rgb(206, 204, 204);
+    width: 277px;
+    font-size: 13px;
+    margin-left: 15px;
+}
+#footericonImg{
+    width: 21px;
+}
+#leftfooter{
+        margin-left: 26px;
+        margin-top: 90px;
+}
+#footerlink{
+    display: block;
+}
+#medium{
+    margin-left: 86px;
+}
+h6{
+    display: inline-block;
+    font-size: 30px;
+    color: white;
+}
