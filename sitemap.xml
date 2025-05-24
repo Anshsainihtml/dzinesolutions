@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://dz.dzinsolution.in/</loc>
+    <lastmod>2025-05-24</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://dz.dzinsolution.in/courses/</loc>
+    <lastmod>2025-05-24</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://dz.dzinsolution.in/about/</loc>
+    <lastmod>2025-05-24</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://dz.dzinsolution.in/contact-us/</loc>
+    <lastmod>2025-05-24</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- Add course-specific URLs below if available -->
+  <url>
+    <loc>https://dz.dzinsolution.in/courses/mechanical-cad</loc>
+    <lastmod>2025-05-24</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://dz.dzinsolution.in/courses/civil-cad</loc>
+    <lastmod>2025-05-24</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://dz.dzinsolution.in/courses/software-it</loc>
+    <lastmod>2025-05-24</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://dz.dzinsolution.in/courses/business-skills</loc>
+    <lastmod>2025-05-24</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
